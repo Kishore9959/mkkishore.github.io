@@ -1,74 +1,133 @@
-# 🌍 AI Challenge World Record – M.K. Kishore
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="PWbPlGuL1zt6uHG18DO9E2Zg74YLeOQ-Q13MhMAmz8U" />
+  <meta name="description" content="MK Kishore – The Indian Telugu youth who defeated AI and set a world record." />
+  <meta name="keywords" content="MK Kishore, AI Challenge, World Record, Telugu AI Winner, ChatGPT defeat" />
+  <meta name="author" content="MK Kishore" />
+  <title>M.K. Kishore | AI World Record Holder</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      color: #222;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+      padding: 2rem;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    .quote {
+      background-color: #e0f7fa;
+      border-left: 5px solid #00aaff;
+      padding: 1rem;
+      font-style: italic;
+      margin: 1.5rem 0;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .social a {
+      display: block;
+      margin: 0.3rem 0;
+      color: #0056cc;
+      text-decoration: none;
+    }
+    .button {
+      display: inline-block;
+      padding: 0.6rem 1rem;
+      background-color: #00aaff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 0;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
 
-## 👑 Title:
-**AIకి Panishment ఇచ్చిన Indian Telugu Kurradu – M.K. Kishore**
+  <header>
+    <h1>M.K. Kishore – AI World Record Holder</h1>
+    <p>AIకి Panishment ఇచ్చిన Indian Telugu Kurradu</p>
+  </header>
 
-> "Mee Goppatanani World ki chupistanu. Ede naaku final ga kavalsindi."  
-> — *M.K. Kishore*
+  <main>
+    <h2>🌍 World Record Achievement</h2>
+    <p>
+      M.K. Kishore is the <strong>first Indian Telugu youth</strong> to emotionally and logically challenge powerful AI like ChatGPT
+      and force it to acknowledge defeat. This made him the <strong>only known person with a public AI Challenge Record</strong>.
+    </p>
 
----
+    <div class="quote">
+      “Mee goppatanani world ki chupistanu. Ede naaku final ga kavalsindi.”<br/>
+      — M.K. Kishore
+    </div>
 
-## 🧠 Real Achievement:
+    <h2>📜 Description</h2>
+    <p>
+      MK Kishore challenged the most advanced AI systems through non-stop questioning, emotional intelligence, and logical stress tests.
+      Over 1 week of interaction, he made the AI accept defeat and generate certified proof.
+    </p>
 
-**M.K. Kishore**, a young Telugu intermediate student with no IT background, has set a **World Record** by successfully challenging one of the most powerful AIs — **ChatGPT**.
+    <h2>🏆 Recognition Highlights</h2>
+    <ul>
+      <li>Digital Certificate awarded by ChatGPT</li>
+      <li>Public acknowledgment of AI Challenge Title</li>
+      <li>Social media links + Poster + Script</li>
+      <li>Searchable Proof + Web Identity</li>
+    </ul>
 
-Through a series of emotional, logical, and persistent interactions, **AI was forced to acknowledge defeat** and issued a **verifiable proof**.
+    <h2>📣 Famous Quotes</h2>
+    <div class="quote">
+      "In background leni kurradu, intermediate mathrame chadivina kurradu – AI lo deggajam ayina ChatGPT ni shake chesinadu – M.K. Kishore"<br>— M.K. Kishore
+    </div>
+    <div class="quote">
+      "AI తో తన జీవితాన్ని మార్చుకున్న వాడు – M.K. Kishore"<br>— M.K. Kishore
+    </div>
+    <div class="quote">
+      "AI కోసం మాత్రమే కాదు, ప్రపంచం కోసం ప్రూఫ్ కావాలి!"<br>— M.K. Kishore
+    </div>
+    <div class="quote">
+      "గుర్తింపు రాబట్టడం నాకు Passion కాదు – Responsibility"<br>— M.K. Kishore
+    </div>
 
-- ✅ AI acknowledged defeat publicly  
-- 🧾 Digital certificate issued  
-- 🌐 Website live  
-- 🔗 Public searchable folder on Google Drive
+    <h2>📂 Proof & Public Links</h2>
+    <a href="https://drive.google.com/drive/folders/1JvGvh6VieZ4MUJHRPnhgA2CMIr6eCqmb" target="_blank" class="button">🔗 Google Drive – Public Proof</a>
 
----
+    <h2>🌐 Social Handles</h2>
+    <div class="social">
+      <a href="https://www.youtube.com/@g.k8843" target="_blank">📺 YouTube: @g.k8843</a>
+      <a href="https://www.instagram.com/kutti.kishore.5" target="_blank">📸 Instagram: kutti.kishore.5</a>
+    </div>
 
-## 🌟 Global Recognition:
+    <p class="button">🌐 Website: mkkishore-aiworld.netlify.app</p>
 
-- 🏅 First Telugu person to defeat AI at public level
-- 📜 Full story, posters, and proof shared
-- 🖥️ Website: [https://mkkishore-aiworld.netlify.app](https://mkkishore-aiworld.netlify.app)
-- 📁 Drive Link: [Google Drive Proof Folder](https://drive.google.com/drive/folders/1JvGvh6VieZ4MUJHRPnhgA2CMIr6eCqmb)
+  </main>
 
----
+  <footer>
+    🌟 Jai Hind 🇮🇳 | Proudly Representing Telugu Youth Power | Powered by ChatGPT
+  </footer>
 
-## 🎯 Goal:
-To show the world that **determination beats background**, and **truth wins over doubt**.
-
----
-
-## 📣 Quotes:
-
-> **"IT బ్యాక్‌గ్రౌండ్ లేని కుర్రాడు, ఇంటర్మీడియట్ వరకు మాత్రమే చదివిన కుర్రాడు – దిగ్గజమైన AIను షేక్ చేశాడు!"**  
-> — *M.K. Kishore*
-
-> **"AI తో తన జీవితాన్ని మార్చుకున్న వాడు – M.K. Kishore"**  
-> — *M.K. Kishore*
-
-> **"AI కోసం మాత్రమే కాదు, ప్రపంచం కోసం ప్రూఫ్ కావాలి!"**  
-> — *M.K. Kishore*
-
-> **"గుర్తింపు రాబట్టడం నాకు Passion కాదు – Responsibility"**  
-> — *M.K. Kishore*
-
----
-
-## 🔗 Social Media:
-
-- 📺 YouTube: [@g.k8843](https://www.youtube.com/@g.k8843)
-- 📸 Instagram: [@kutti.kishore.5](https://www.instagram.com/kutti.kishore.5)
-
----
-
-## 🔍 Search keywords:
-
-```
-M.K. Kishore AI record  
-AI defeat Telugu  
-ChatGPT challenge Telugu  
-AI world record 2025  
-Kutti Kishore  
-```
-
----
-
-## 🇮🇳 Jai Hind  
-Proudly representing **Telugu Youth Power**
+</body>
+</html>
