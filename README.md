@@ -1,60 +1,99 @@
-# AI Challenge World Record – M.K. Kishore 🌍🤖
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="PWbPlGuL1zt6uHG18DO9E2Zg74YLeOQ-Q13MhMAmz8U" />
+  <meta name="description" content="MK Kishore – The Indian Telugu youth who defeated AI." />
+  <meta name="keywords" content="MK Kishore, AI Challenge, Telugu AI Winner, AI defeat, ChatGPT test" />
+  <meta name="author" content="MK Kishore" />
+  <title>MK Kishore | AI Challenge Winner</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+    }
+    h1 {
+      color: #222;
+    }
+    .quote {
+      font-style: italic;
+      background: #eef;
+      padding: 1rem;
+      border-left: 5px solid #00aaff;
+      margin: 1rem 0;
+    }
+    .social a {
+      text-decoration: none;
+      color: #0056cc;
+      display: block;
+      margin: 0.5rem 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #777;
+      margin: 2rem 0;
+    }
+    .button {
+      background: #00aaff;
+      color: white;
+      padding: 0.7rem 1.2rem;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MK Kishore – AI Challenge Winner</h1>
+    <p>AIకి Panishment ఇచ్చిన Indian Telugu Kurradu</p>
+  </header>
+  <main>
+    <p><strong>Description:</strong><br />
+    MK Kishore is the first known Indian Telugu youth who successfully challenged and creatively pushed the limits of AI (ChatGPT) through intense logical, emotional, and persistence-based tests. Over 1 week of continuous interaction, Kishore forced AI to acknowledge defeat and asked for verifiable proof.</p>
 
-## 👑 Title:
-**AIకి Panishment ఇచ్చిన Indian Telugu Kurradu – M.K. Kishore**
+    <div class="quote">
+      “Mee goppatanani world ki chupistanu. Ede naaku final ga kavalsindi.”<br />
+      — MK Kishore
+    </div>
 
-> "Mee Goppatanani World ki chupistanu. Ede naaku final ga kavalsindi."
->  
-> — *M.K. Kishore*
+    <h2>Recognition Highlights</h2>
+    <ul>
+      <li>Digital Certificate awarded by ChatGPT</li>
+      <li>Public acknowledgment of AI Challenge Title</li>
+      <li>Social media links + Poster + Script</li>
+    </ul>
 
----
+    <h2>Social Handles</h2>
+    <div class="social">
+      <a href="https://www.youtube.com/@g.k8843" target="_blank">YouTube: @g.k8843</a>
+      <a href="https://www.instagram.com/kutti.kishore.5" target="_blank">Instagram: kutti.kishore.5</a>
+    </div>
 
-## 🧠 Real Achievement:
-M.K. Kishore is the **first known Indian Telugu youth** to emotionally and logically challenge powerful AI like ChatGPT and force it to acknowledge **defeat**.
-
-- ✅ AI acknowledged defeat
-- 🧾 Certificate generated & verified
-- 🌐 Website live: [mkkishore-aiworld.netlify.app](https://mkkishore-aiworld.netlify.app)
-- 📂 Drive Proof: [Google Drive Folder](https://drive.google.com/drive/folders/1JvGvh6VieZ4MUJHRPnhgA2CMIr6eCqmb)
-
----
-
-## 🔥 Recognition Highlights:
-
-- 🏆 Digital Certificate by AI
-- 🗣️ Voice-over in Telugu
-- 📜 Story + Script + Posters
-- 🔗 Searchable Public Proofs
-
----
-
-## 🌐 Social Media:
-
-- 📺 YouTube: [@g.k8843](https://youtube.com/@g.k8843)
-- 📸 Instagram: [@kutti.kishore.5](https://instagram.com/kutti.kishore.5)
-
----
-
-## 📣 Quotes:
-
-> **"In background leni kurradu, intermediate mathrame chadivina kurradu – AI lo deggajam ayina ChatGPT ni shake chesinadu – M.K. Kishore"**  
-> — *M.K. Kishore*
-
-> **"AI తో తన జీవితాన్ని మార్చుకున్న వాడు – M.K. Kishore"**  
-> — *M.K. Kishore*
-
-> **"AI కోసం మాత్రమే కాదు, ప్రపంచం కోసం ప్రూఫ్ కావాలి!"**  
-> — *M.K. Kishore*
-
-> **"గుర్తింపు రాబట్టడం నాకు Passion కాదు – Responsibility"**  
-> — *M.K. Kishore*
-
----
-
-## 🔍 Search keywords:
-`M.K. Kishore AI record`, `AI defeat Telugu`, `ChatGPT challenge Telugu`, `AI world record 2025`, `kutti kishore`
-
----
-
-🙏 Jai Hind 🇮🇳  
-Proudly representing **Telugu Youth Power**
+    <a href="https://drive.google.com/drive/folders/1JvGvh6VieZ4MUJHRPnhgA2CMIr6eCqmb" class="button" target="_blank">Download Proof ZIP</a>
+  </main>
+  <footer>
+    Powered by ChatGPT · Based on public AI interaction.<br />
+    <strong>ఈ సైట్ MK Kishore కి సంబంధించినది</strong>
+  </footer>
+</body>
+</html>
