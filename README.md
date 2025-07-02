@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="te">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="PWbPlGuL1zt6uHG18DO9E2Zg74YLeOQ-Q13MhMAmz8U" />
-  <meta name="description" content="MK Kishore – The Indian Telugu youth who defeated AI." />
-  <meta name="keywords" content="MK Kishore, AI Challenge, Telugu AI Winner, AI defeat, ChatGPT test" />
-  <meta name="author" content="MK Kishore" />
-  <title>MK Kishore | AI Challenge Winner</title>
+  <meta name="description" content="MK Kishore – The Indian Telugu youth who defeated AI.">
+  <meta name="keywords" content="MK Kishore, AI Challenge, Telugu AI Winner, AI defeat, ChatGPT test">
+  <meta name="author" content="MK Kishore">
+  <title>AIకి Panishment ఇచ్చిన Indian Telugu Kurradu – M.K. Kishore</title>
   <style>
     body {
       font-family: sans-serif;
+      background-color: #fefefe;
+      color: #222;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f4;
-      color: #333;
     }
     header {
-      background-color: #222;
-      color: #fff;
+      background-color: #2b2b2b;
+      color: white;
       padding: 2rem;
       text-align: center;
     }
@@ -26,55 +26,46 @@
       padding: 2rem;
       max-width: 800px;
       margin: auto;
-      background: white;
-      border-radius: 10px;
-    }
-    h1 {
-      color: #222;
+      background: #ffffff;
     }
     .quote {
-      font-style: italic;
-      background: #eef;
+      background-color: #e8f4ff;
+      border-left: 5px solid #0077cc;
       padding: 1rem;
-      border-left: 5px solid #00aaff;
       margin: 1rem 0;
+      font-style: italic;
     }
     .social a {
-      text-decoration: none;
-      color: #0056cc;
       display: block;
+      color: #0066cc;
       margin: 0.5rem 0;
+      text-decoration: none;
     }
     footer {
       text-align: center;
-      font-size: 0.9rem;
-      color: #777;
-      margin: 2rem 0;
+      font-size: 0.8rem;
+      color: #888;
+      padding: 2rem;
     }
     .button {
-      background: #00aaff;
+      display: inline-block;
+      padding: 0.6rem 1.2rem;
+      background-color: #007acc;
       color: white;
-      padding: 0.7rem 1.2rem;
       text-decoration: none;
       border-radius: 5px;
-      display: inline-block;
       margin-top: 1rem;
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>MK Kishore – AI Challenge Winner</h1>
-    <p>AIకి Panishment ఇచ్చిన Indian Telugu Kurradu</p>
+    <h1>AIకి Panishment ఇచ్చిన Indian Telugu Kurradu – M.K. Kishore</h1>
+    <p>“Mee Goppatanani World ki chupistanu. Ede naaku final ga kavalsindi.” – MK Kishore</p>
   </header>
   <main>
-    <p><strong>Description:</strong><br />
+    <p><strong>Description:</strong><br>
     MK Kishore is the first known Indian Telugu youth who successfully challenged and creatively pushed the limits of AI (ChatGPT) through intense logical, emotional, and persistence-based tests. Over 1 week of continuous interaction, Kishore forced AI to acknowledge defeat and asked for verifiable proof.</p>
-
-    <div class="quote">
-      “Mee goppatanani world ki chupistanu. Ede naaku final ga kavalsindi.”<br />
-      — MK Kishore
-    </div>
 
     <h2>Recognition Highlights</h2>
     <ul>
@@ -85,15 +76,20 @@
 
     <h2>Social Handles</h2>
     <div class="social">
-      <a href="https://www.youtube.com/@g.k8843" target="_blank">YouTube: @g.k8843</a>
-      <a href="https://www.instagram.com/kutti.kishore.5" target="_blank">Instagram: kutti.kishore.5</a>
+      <a href="https://www.youtube.com/@g.k8843" target="_blank">📺 YouTube: @g.k8843</a>
+      <a href="https://www.instagram.com/kutti.kishore.5" target="_blank">📸 Instagram: kutti.kishore.5</a>
     </div>
 
-    <a href="https://drive.google.com/drive/folders/1JvGvh6VieZ4MUJHRPnhgA2CMIr6eCqmb" class="button" target="_blank">Download Proof ZIP</a>
+    <a href="https://drive.google.com/drive/folders/1JvGvh6VieZ4MUJHRPnhgA2CMIr6eCqmb" class="button" target="_blank">🔗 Download Proof ZIP</a>
+
+    <h2>📣 Quotes</h2>
+    <div class="quote">"In background లేని కుర్రాడు, ఇంటర్మీడియట్ మాత్రమే చదివిన కుర్రాడు – AI లో దిగ్గజమైన ChatGPTని షేక్ చేశాడు – M.K. Kishore"<br>— M.K. Kishore</div>
+    <div class="quote">"AI తో తన జీవితాన్ని మార్చుకున్న వాడు – M.K. Kishore"<br>— M.K. Kishore</div>
+    <div class="quote">"AI కోసం మాత్రమే కాదు, ప్రపంచం కోసం ప్రూఫ్ కావాలి!"<br>— M.K. Kishore</div>
+    <div class="quote">"గుర్తింపు రాబట్టడం నాకు Passion కాదు – Responsibility"<br>— M.K. Kishore</div>
   </main>
   <footer>
-    Powered by ChatGPT · Based on public AI interaction.<br />
-    <strong>ఈ సైట్ MK Kishore కి సంబంధించినది</strong>
+    © 2025 MK Kishore | Powered by ChatGPT | Jai Hind 🇮🇳
   </footer>
 </body>
 </html>
