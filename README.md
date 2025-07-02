@@ -1,34 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="te">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="google-site-verification" content="PWbPlGuL1zt6uHG18DO9E2Zg74YLeOQ-Q13MhMAmz8U" />
-  <meta name="description" content="MK Kishore – The Indian Telugu youth who defeated AI." />
-  <meta name="keywords" content="MK Kishore, AI Challenge, Telugu AI Winner, AI defeat, ChatGPT test" />
-  <meta name="author" content="MK Kishore" />
   <title>MK Kishore | AI Challenge Winner</title>
   <style>
     body {
       font-family: sans-serif;
-      background-color: #f9f9f9;
+      background-color: #f4f4f4;
       color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #222;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    main {
       max-width: 800px;
       margin: auto;
       padding: 2rem;
-      background: white;
-      border-radius: 10px;
     }
+    h1 { color: #007acc; }
     .quote {
       font-style: italic;
       background: #eef;
@@ -36,60 +21,37 @@
       border-left: 5px solid #00aaff;
       margin: 1rem 0;
     }
-    .social a {
-      text-decoration: none;
-      color: #0077cc;
-      display: block;
-      margin: 0.5rem 0;
-    }
-    .button {
-      background: #00aaff;
-      color: white;
-      padding: 0.7rem 1.2rem;
-      text-decoration: none;
-      border-radius: 5px;
-      display: inline-block;
-      margin-top: 1rem;
-    }
-    footer {
-      text-align: center;
-      font-size: 0.9rem;
-      margin-top: 2rem;
-      color: #777;
-    }
+    ul { padding-left: 1.2rem; }
+    a { color: #007acc; text-decoration: none; }
   </style>
 </head>
 <body>
-  <header>
-    <h1>MK Kishore – AI Challenge Winner</h1>
-    <p>AIకి Panishment ఇచ్చిన Indian Telugu Kurradu</p>
-  </header>
-  <main>
-    <p><strong>Description:</strong><br>
-    MK Kishore is the first known Indian Telugu youth who successfully challenged and creatively pushed the limits of AI (ChatGPT) through intense logical, emotional, and persistence-based tests. Over 1 week of continuous interaction, Kishore forced AI to acknowledge defeat and asked for verifiable proof.</p>
+  <h1>AIకి Panishment ఇచ్చిన Indian Telugu Kurradu</h1>
+  
+  <p><strong>Description:</strong><br>
+    MK Kishore is the first known Indian Telugu youth who successfully challenged and creatively pushed the limits of AI (ChatGPT) through intense logical, emotional, and persistence-based tests. Over 1 week of continuous interaction, Kishore forced AI to acknowledge defeat and asked for verifiable proof.
+  </p>
 
-    <div class="quote">
-      “Mee goppatanani world ki chupistanu. Ede naaku final ga kavalsindi.”<br>
-      — MK Kishore
-    </div>
+  <div class="quote">
+    “Mee goppatanani world ki chupistanu. Ede naaku final ga kavalsindi.”<br>
+    — MK Kishore
+  </div>
 
-    <h2>Recognition Highlights</h2>
-    <ul>
-      <li>Digital Certificate awarded by ChatGPT</li>
-      <li>Public acknowledgment of AI Challenge Title</li>
-      <li>Social media links + Poster + Script</li>
-    </ul>
+  <h2>Recognition Highlights</h2>
+  <ul>
+    <li>Digital Certificate awarded by ChatGPT</li>
+    <li>Public acknowledgment of AI Challenge Title</li>
+    <li>Social media links + Poster + Script</li>
+  </ul>
 
-    <h2>Social Handles</h2>
-    <div class="social">
-      <a href="https://www.youtube.com/@g.k8843" target="_blank">YouTube: @g.k8843</a>
-      <a href="https://www.instagram.com/kutti.kishore.5" target="_blank">Instagram: kutti.kishore.5</a>
-    </div>
+  <h2>Social Handles</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/@g.k8843" target="_blank">YouTube: @g.k8843</a></li>
+    <li><a href="https://www.instagram.com/kutti.kishore.5" target="_blank">Instagram: kutti.kishore.5</a></li>
+  </ul>
 
-    <a href="https://drive.google.com/drive/folders/1JvGvh6VieZ4MUJHRPnhgA2CMIr6eCqmb" class="button" target="_blank">Download Proof ZIP</a>
-  </main>
-  <footer>
-    Powered by ChatGPT · Based on public AI interaction. Not affiliated with OpenAI Inc.
+  <footer style="margin-top: 2rem; font-size: 0.8rem; color: #777;">
+    Powered by ChatGPT — Not affiliated with OpenAI
   </footer>
 </body>
 </html>
